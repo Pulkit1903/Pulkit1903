@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pulkit Heda</h1>
 <h3 align="center">A DevOps Enthusiast with 3 years of hands-on experience in DevOps Practices</h3>
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning **AWS DevOps** & **Azure DevOps**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
