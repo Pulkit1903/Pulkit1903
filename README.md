@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **DevOps Tools and Practices**
+- 💬 Ask me about **DevOps Tools and Agile Practices**
 
 - 📫 How to reach me **pulkit.19.2003@gmail.com**
 
