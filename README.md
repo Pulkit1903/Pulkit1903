@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pulkit.19.2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o5zaWLr-gy-TCwxEAvSoNNgY4DMs5ra-/view?usp=drive_link](https://drive.google.com/file/d/1o5zaWLr-gy-TCwxEAvSoNNgY4DMs5ra-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o5zaWLr-gy-TCwxEAvSoNNgY4DMs5ra-/view?usp=drive_link](https://drive.google.com/file/d/1_yBGDpTmluNGgV1TIEu1P3PwUAk3lrQ_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
