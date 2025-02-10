@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pulkit Heda</h1>
-<h3 align="center">A DevOps Enthusiast with 3 years of hands-on experience in DevOps Practices</h3>
+<h3 align="center">A DevOps Enthusiast with 3 years of hands-on experience & projects</h3>
 
 - 🌱 I’m currently learning **AWS DevOps** & **Data Structures And Algorithm**
 
